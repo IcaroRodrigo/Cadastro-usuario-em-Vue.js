@@ -5,7 +5,7 @@ Teste prático para programador Front-end, realizei esse teste para fins didáti
 Regras impostas no desafio.
 
 Regras do layout:
-As caixas de inputs deveram ter a altura de 45px,
+As caixas de inputs deveram ter a altura de 45px,\n
 A caixa do corpo de conteúdo e cadastro deve ter uma largura de 440px.
 A caixa do corpo de conteúdo e cadastro deve está centralizada no meio da página.
 O Layout deve ser responsivo, portanto os inputs devem ficar com a largura de 100% quando atingir o padrão de dispositivo mobile.
